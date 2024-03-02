@@ -1,1 +1,0 @@
-A Kanji - Hiragana matching game written mostly by ChatGPT and Google Gemini. The program selects 8 random Kanji-hiragana pairs from the text file. The text file can be edited to include additional Kanji-Hiragana pairs seperated witha comma.
